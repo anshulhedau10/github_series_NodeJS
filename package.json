@@ -10,7 +10,7 @@
   "author": "AnshulHedau",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.1.7",
+    "ejs": "^3.1.10",
     "express": "^4.18.2",
     "mkdirp": "^1.0.4",
     "path": "^0.12.7"
